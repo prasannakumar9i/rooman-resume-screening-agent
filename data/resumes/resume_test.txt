@@ -1,0 +1,20 @@
+John Doe
+
+Skills
+
+Python
+Machine Learning
+Deep Learning
+NLP
+Flask
+Git
+Docker
+SQL
+
+Education
+
+Bachelor of Engineering in Computer Science
+
+Experience
+
+2 years Machine Learning Engineer

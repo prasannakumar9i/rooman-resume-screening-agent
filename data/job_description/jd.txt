@@ -1,0 +1,41 @@
+AI / ML Engineer
+
+Required Skills
+
+Python
+Machine Learning
+Deep Learning
+Natural Language Processing (NLP)
+Data Science
+SQL
+Git
+GitHub
+Docker
+Flask
+TensorFlow
+PyTorch
+
+Education
+
+Bachelor's Degree in Computer Science,
+Information Science,
+Artificial Intelligence,
+or related field.
+
+Experience
+
+2 years of experience in Machine Learning,
+Artificial Intelligence,
+or Data Science.
+
+Responsibilities
+
+Develop AI models.
+
+Build NLP applications.
+
+Analyze datasets.
+
+Deploy ML models.
+
+Collaborate with software engineers.
