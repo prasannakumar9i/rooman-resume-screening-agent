@@ -11,7 +11,7 @@ class CandidateRanker:
 
         ranked = sorted(
             candidates,
-            key=lambda x: x["score"],
+            key=lambda x: x.get("overall_score", 0),
             reverse=True
         )
 

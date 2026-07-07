@@ -20,6 +20,6 @@ venv/
 # Output files
 output/*.csv
 output/*.json
-
+output/*.log
 # Model cache
 .cache/

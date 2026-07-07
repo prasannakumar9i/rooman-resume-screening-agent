@@ -1,41 +1,70 @@
-AI / ML Engineer
+AI / Machine Learning Engineer Intern
+
+Location: Bangalore, India
+Employment Type: Internship
+
+Job Description
+
+We are looking for a highly motivated AI / Machine Learning Engineer Intern to join our engineering team. The ideal candidate should have strong programming skills in Python and a passion for Artificial Intelligence, Machine Learning, Data Science, and Generative AI. The candidate will work on developing intelligent applications, NLP pipelines, Computer Vision solutions, and scalable AI systems.
+
+Key Responsibilities
+
+• Develop and deploy Machine Learning and Deep Learning models.
+• Build AI-powered applications using Python and modern AI frameworks.
+• Design and optimize NLP pipelines for text processing and semantic search.
+• Work with Large Language Models (LLMs) and Retrieval-Augmented Generation (RAG).
+• Develop REST APIs using Flask or FastAPI.
+• Perform data preprocessing, feature engineering, and exploratory data analysis.
+• Build vector databases and semantic search systems using FAISS or Sentence Transformers.
+• Collaborate with cross-functional teams to integrate AI models into production applications.
+• Write clean, maintainable, and well-documented code.
+• Participate in debugging, testing, and performance optimization.
 
 Required Skills
 
-Python
-Machine Learning
-Deep Learning
-Natural Language Processing (NLP)
-Data Science
-SQL
-Git
-GitHub
-Docker
-Flask
-TensorFlow
-PyTorch
+• Python
+• SQL
+• Machine Learning
+• Deep Learning
+• Natural Language Processing (NLP)
+• Generative AI
+• Large Language Models (LLMs)
+• Retrieval-Augmented Generation (RAG)
+• Computer Vision
+• Data Preprocessing
+• Feature Engineering
+• Scikit-learn
+• Pandas
+• NumPy
+• Flask or FastAPI
+• REST APIs
+• Git & GitHub
 
-Education
+Preferred Skills
 
-Bachelor's Degree in Computer Science,
-Information Science,
-Artificial Intelligence,
-or related field.
+• React or TypeScript
+• Ollama
+• Sentence Transformers
+• FAISS
+• Vector Embeddings
+• Prompt Engineering
+• Multimodal AI
+• OpenCV
+• Power BI
+• Docker
+• Cloud Platforms (AWS, Azure, GCP)
 
-Experience
+Qualifications
 
-2 years of experience in Machine Learning,
-Artificial Intelligence,
-or Data Science.
+• Bachelor's degree in Computer Science, Artificial Intelligence, Data Science, Information Science, or a related field.
+• Strong understanding of Machine Learning fundamentals and Data Structures.
+• Experience building academic or personal AI/ML projects.
+• Excellent analytical and problem-solving skills.
+• Good communication and teamwork abilities.
 
-Responsibilities
+What You'll Gain
 
-Develop AI models.
-
-Build NLP applications.
-
-Analyze datasets.
-
-Deploy ML models.
-
-Collaborate with software engineers.
+• Hands-on experience building production-ready AI applications.
+• Exposure to NLP, Computer Vision, and Generative AI projects.
+• Opportunity to work with modern AI technologies and real-world datasets.
+• Mentorship from experienced AI Engineers and Data Scientists.
